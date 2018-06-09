@@ -47,7 +47,7 @@ Networking
 - Better support for **security group** rules with a large number of ports. :ref:`See configuration options here <bridged_conf>`.
 - **Open vSwitch** rules for the ARP/MAC/IP spoofing filters were refactored.
 - New **Open vSwitch on VXLAN** driver. Driver :ref:`ovswitch_vxlan <openvswitch_vxlan>`.
-- New **Bridged drvier** that supports managed Linux bridges :ref:`more info <bridged>`.
+- New **Bridged driver** that supports managed Linux bridges :ref:`more info <bridged>`.
 
 Authentication
 --------------------------------------------------------------------------------
